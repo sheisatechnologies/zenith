@@ -13914,6 +13914,9 @@ span.select2-selection.select2-selection--single:focus {
   .space-top {
     padding-top: var(--vs-section-space-mobile);
   }
+  .vs-feature--area{
+    margin-top: -246px !important;
+  }
   .space,
   .space-bottom {
     padding-bottom: var(--vs-section-space-mobile);
